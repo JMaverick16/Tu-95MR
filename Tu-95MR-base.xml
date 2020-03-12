@@ -332,6 +332,9 @@ see Read-Me.txt for all copyrights in the base folder of this aircraft
 		<file>Aircraft/Tu-95MR/Nasal/autostart.nas</file>
 		<file>Aircraft/Tu-95MR/Nasal/autopilot.nas</file>
 	      </tu95>
+	      <damage>
+	    <file>Aircraft/Tu-95MR/Nasal/damage.nas</file>
+	      </damage>
 	      <instruments>
 		<file>Aircraft/Tu-95MR/Nasal/setprop.nas</file>      
 	      </instruments>	      
