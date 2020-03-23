@@ -195,7 +195,14 @@ see Read-Me.txt for all copyrights in the base folder of this aircraft
 	    <running>false</running>
 	  </engine>
 	</engines>
-	
+
+	<!-- MP Damage -->
+
+	<payload>
+		<armament>
+			<msg type="bool">true</msg>
+		</armament>
+	</payload>
 	
 	<instrumentation>
 	  
